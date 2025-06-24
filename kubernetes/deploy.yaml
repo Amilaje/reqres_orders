@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: order
-          image: myeventstormingregistry.azurecr.io/order
+          image: a073072.azurecr.io/order
           ports:
             - containerPort: 8080
